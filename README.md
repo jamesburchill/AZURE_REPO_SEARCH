@@ -2,7 +2,7 @@
 
 ## Overview
 
-`AZURE_REPO_SEARCH` is a Python script designed to list all projects and their repositories from an Azure DevOps organization, search for email patterns within the repository files, and write the results to CSV files. The script also counts the total number of projects and repositories.
+`AZURE_REPO_SEARCH` is a Python script designed to list all projects and their repositories from an Azure DevOps organization, search for **hard-coded email patterns** within the repository files, and write the results to CSV files. The script also counts the total number of projects and repositories.
 
 ## Prerequisites
 

@@ -1,6 +1,6 @@
-#  Copyright (c) 2024 - JamesBurchill.com - All rights reserved
+#  Copyright (c) 2024 - JamesBurchill.com - See LICENSE for details, otherwise All Rights Reserved
 #  File Location: /Users/jamesburchill/Documents/DEV/AZURE_REPO_SEARCH/main.py
-#  Last Updated: 2024-12-10, 8:20 a.m.
+#  Last Updated: 2024-12-10, 8:39 a.m.
 
 import base64
 import csv
